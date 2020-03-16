@@ -1,0 +1,3 @@
+21:05:49.486 [main] INFO  com.liaoxf.Test - info ... 
+21:05:49.489 [main] ERROR com.liaoxf.Test - error .. .
+21:05:49.489 [main] ERROR com.liaoxf.Test - 占位符1,第二个2
